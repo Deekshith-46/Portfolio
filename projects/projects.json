@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Food Store",
+    "desc": "A responsive and visually appealing Food Store website built using HTML, CSS, and Bootstrap, showcasing a clean UI and seamless user experience.",
+    "image": "foodstore",
+    "links": {
+      "view": "https://deekshith-46.github.io/foodstore/",
+      "code": "https://github.com/Deekshith-46/foodstore.git"
+    }
+  },
+  {
+    "name": "Music Bar",
+    "desc": "A responsive music bar project created using HTML, CSS, and JavaScript, featuring interactive playback controls and visual audio indicators.",
+    "image": "musicbar",
+    "links": {
+      "view": "https://deekshith-46.github.io/Project/",
+      "code": "https://github.com/Deekshith-46/Project.git"
+    }
+  },
+  {
+    "name": "Strip Template",
+    "desc": "A visually engaging landing page created using HTML and CSS, featuring responsive design and smooth scrolling for an enhanced user experience.",
+    "image": "striptemplate",
+    "links": {
+      "view": "https://deekshith-46.github.io/css-project-1/",
+      "code": "https://github.com/Deekshith-46/css-project-1.git"
+    }
+  },
+  {
+    "name": "Travel WebPage",
+    "desc": "A modern and responsive webpage created with HTML and CSS, emphasizing clean typography and layout for a seamless user experience.",
+    "image": "travelpage",
+    "links": {
+      "view": "https://deekshith-46.github.io/css-workshop-1/",
+      "code": "https://github.com/Deekshith-46/css-workshop-1.git"
+    }
+  },
+  {
+    "name": "Fetch API's",
+    "desc": "An interactive personal task management application built with HTML, CSS, and JavaScript, allowing users to add, edit, and delete tasks seamlessly.",
+    "image": "fetchapi",
+    "links": {
+      "view": "https://deekshith-46.github.io/dom-personal-task/",
+      "code": "https://github.com/Deekshith-46/dom-personal-task.git"
+    }
+  },
+  {
+    "name": "Guest House Booking",
+    "desc": "A user-friendly guest house booking webpage designed with HTML, CSS, and JavaScript, featuring an interactive booking form, and responsive layout.",
+    "image": "guesthouse",
+    "links": {
+      "view": "https://deekshith-46.github.io/web-dev-intern-project/",
+      "code": "https://github.com/Deekshith-46/web-dev-intern-project.git"
+    }
+  },
+  {
+    "name": "Color Picker",
+    "desc": "An interactive color picker application created with HTML, CSS, and JavaScript, allowing users to select colors in real-time.",
+    "image": "colorpicker",
+    "links": {
+      "view": "https://deekshith-46.github.io/color-picker/",
+      "code": "https://github.com/Deekshith-46/color-picker.git"
+    }
+  },
+  {
+    "name": "Guess Number",
+    "desc": "A fun, interactive number-guessing game created with HTML, CSS, and JavaScript, featuring dynamic user input, feedback, and scoring.",
+    "image": "guessnumber",
+    "links": {
+      "view": "https://deekshith-46.github.io/guess-number/",
+      "code": "https://github.com/Deekshith-46/guess-number.git"
+    }
+  }
+]
